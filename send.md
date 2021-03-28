@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Send
-tagline: Send texts, images and other things to teacher
-ref: contact
+title: Envio de Atividades
+tagline: Envio de atividades, fotografias, trabalhos, etc. para o professor.
+ref: send
 order: 4
 ---
 
