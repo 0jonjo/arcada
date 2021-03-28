@@ -1,9 +1,9 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
-show_downloads: true
+title: História
+description: Blog de História (Ensino Fundamental Anos Finais) do Prof. Dr. João Gilberto N. Saraiva
+show_downloads: no
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://0jonjo.github.io" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
@@ -19,7 +19,7 @@ theme: # leave it empty
 author: lorepirri
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: 0jonjo
 
 plugins:
   - jekyll-target-blank
