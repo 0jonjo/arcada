@@ -12,6 +12,6 @@ Para entrar em contato com o professor João Gilberto é só mandar um e-mail pa
 - ⚡ [Telegram](https://t.me/jonjo0)  
 - 🐦 [Twitter](https://twitter.com/0jonjo)
 
-Para mais informações e opções, acesse o site do professor [(clique aqui para abrir)](https://0jonjo.github.io/0jonjo/)
+Para mais informações, [clique aqui](https://0jonjo.github.io/0jonjo/) para abrir o site do professor.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
