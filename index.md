@@ -12,6 +12,6 @@ Este é um site utilizado nas aulas do professor [João Gilberto N. Saraiva](0jo
 
 ## Escolha a série desejada: 
 
-### [7º ano]()
-### [8º ano]()
-### [9º ano]()
+- **[7º ano]()**
+- **[8º ano]()**
+- **[9º ano]()**
