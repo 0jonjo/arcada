@@ -19,7 +19,7 @@ theme: # leave it empty
 author: lorepirri
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: 0jonjo
 
 plugins:
   - jekyll-target-blank
