@@ -6,7 +6,7 @@ ref: contact
 order: 1
 ---
 
-Para entrar em contato com o professor João Gilberto é só mandar um e-mail para (jgilbertons@gmail.com)[mailto:jgilbertons@gmail.com] ou utilizar uma das opções abaixo:
+Para entrar em contato com o professor João Gilberto é só mandar um e-mail para [jgilbertons@gmail.com](mailto:jgilbertons@gmail.com) ou utilizar uma das opções abaixo:
        
 - 📸 [Instagram](https://www.instagram.com/0jonjo/)
 - ⚡ [Telegram](https://t.me/jonjo0)  
