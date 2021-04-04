@@ -2,7 +2,7 @@
 layout: post
 title: "Some articles are just so long they deserve a really long title to see if things will break well"
 description: blablabla
-tags: jekyll blog github-page
+tags: jekyll blog github-page 7ano 8ano 9ano
 categories: misc
 ---
 
