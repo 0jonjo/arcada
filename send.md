@@ -10,4 +10,4 @@ order: 4
 
 Você também pode enviar pelo e-mail: **[jgilbertons@gmail.com](mailto:jgilbertons@gmail.com)**
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+[Retornar a Página Inicial]({{ '/' | absolute_url }})
