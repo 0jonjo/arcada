@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: 8ano"
+title: "8º ano"
 tag: 8ano
 ---
