@@ -14,4 +14,4 @@ Para entrar em contato com o professor João Gilberto é só mandar um e-mail pa
 
 Para mais informações, [clique aqui](https://0jonjo.github.io/0jonjo/) para abrir o site do professor.
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+[Retornar a Página Inicial]({{ '/' | absolute_url }})
