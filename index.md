@@ -12,6 +12,6 @@ Este é um site utilizado nas aulas do professor de História [João Gilberto N.
 
 ### Escolha a série desejada: 
 
-- **[7º ano]()**
-- **[8º ano]()**
-- **[9º ano]()**
+- **[7º ano](https://0jonjo.github.io/escola/tag/7ano)**
+- **[8º ano](https://0jonjo.github.io/escola/tag/8ano)**
+- **[9º ano](https://0jonjo.github.io/escola/tag/9ano)**
