@@ -13,4 +13,4 @@ Esta é a segunda versão do projeto, a primeira foi ao ar em 2020 na plataforma
 
 [Clique aqui para acessar os blogs antigos]().
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+[Retornar a Página Inicial]({{ '/' | absolute_url }})
