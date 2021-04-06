@@ -3,7 +3,8 @@ layout: post
 title: "História? Black Alien? O que é isso?"
 description: O primeiro passo da nossa jornada 
 tags: 7ano 8ano 9ano
-categories: misc
+author: "João Gilberto Neves Saraiva"
+image: https://i1.sndcdn.com/artworks-000100280305-e3lkbw-t500x500.jpg
 ---
 
 Ei, você já se preparou para começar nossa jornada pela História? Já viu que visual legal tem nosso site novo?
