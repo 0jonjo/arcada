@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "História e Black Alien? Como é que é?"
-description: O primeiro passo da nossa jornada 
+title: "A História e Black Alien: o primeiro passo da nossa jornada"
+description: Postagem inicial do ano letivo de 2021.
 tags: 7ano 8ano 9ano
 author: "João Gilberto Neves Saraiva"
 image: https://user-images.githubusercontent.com/64807181/113641048-30328000-9653-11eb-8426-c9c8abc8a43e.png
