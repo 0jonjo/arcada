@@ -15,7 +15,7 @@ Além disso, você viu a página inicial [(se ainda não, clique aqui para ver)]
 
 Agora, vamos escutar a música. [Clique aqui](https://www.youtube.com/watch?v=mbOB7aG7b1M), ou no vídeo, logo abaixo.
 
-[![Música Terra - Black Alien](https://img.youtube.com/vi/mbOB7aG7b1M/0.jpg)](https://www.youtube.com/watch?v=mbOB7aG7b1M)
+[![Música Terra - Black Alien](https://yt-embed.herokuapp.com/embed?v=mbOB7aG7b1M)](https://www.youtube.com/watch?v=mbOB7aG7b1M "Black Alien - Terra")
 
 E ai, achou o que dela? Assim como eu você gosta de rap? Essa música se chama "Terra". Ela é uma verdadeira "carta falada" sobre atitute diante da vida, incluindo o presente e o passado. Já pensou sobre isso? A História não é uma verdade guardada dentro de um monte de livro velho e empoeirado, a História é feita por **nós**, eu, você e todos que embarcam nessa aventura de fazer questões sobre o mundo que vivemos. Quando observamos um lugar, um objeto ou mesmo um acontecimento e tentamos responder questões como: O que é aquilo? Quando aconteceu? Onde? Como? E especialmente: **por quê?**, estamos fazendo as perguntas da História. Se reunirmos pistas, fontes históricas, para tentar compreender as transormações que algo sofreu ao longo do tempo, estamos seguindo os passos do conhecimento histórico. Nesse sentido, como disse Black Alien, estamos construíndo a História, lançando a partir da realidade que vivemos, questões para construir uma interpretação coerente do passado.
 
