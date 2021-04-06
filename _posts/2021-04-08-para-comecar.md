@@ -13,7 +13,7 @@ Se ainda não viu, clica ai no canto superior direito da tela e dá uma olhada n
 
 Além disso, você viu a página inicial [(se ainda não, clique aqui para ver)](/). Prestou atenção na frase do Black Alien que está abaixo do título do site? *A construção do seu passado é atitute no presente*. Legal né?! O Black Alien é um rapper do Rio de Janeiro que faz músicas sobre muitos temas:lições de vida, amizade, desigualdade social, superação e até sobre História. Se você nunca ouviu falar dele, Black Alien é o nome artístico de Gustavo Ribeiro, cantor e compositor da cidade de Niterói, [clique aqui](https://pt.wikipedia.org/wiki/Black_Alien) para saber um pouco mais dele. 
 
-Agora, vamos escutar a música.
+Agora, vamos escutar a música. [Clique aqui](https://www.youtube.com/watch?v=mbOB7aG7b1M), ou no vídeo, logo abaixo.
 
 [![Música Terra - Black Alien](https://img.youtube.com/vi/mbOB7aG7b1M/0.jpg)](https://www.youtube.com/watch?v=mbOB7aG7b1M)
 
