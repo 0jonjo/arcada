@@ -5,6 +5,7 @@ description: Postagem inicial do ano letivo de 2021.
 tags: 7ano 8ano 9ano
 author: "João Gilberto Neves Saraiva"
 image: https://raw.githubusercontent.com/0jonjo/escola/master/images/black-alien.jpg
+youtubeId: mbOB7aG7b1M 
 ---
 
 Ei, você já se preparou para começar nossa jornada pela História? Já viu que visual legal tem nosso site novo?
@@ -16,6 +17,8 @@ Além disso, você viu a página inicial [(se ainda não, clique aqui)](https://
 Agora, vamos escutar a música. [Clique aqui](https://www.youtube.com/watch?v=mbOB7aG7b1M), ou no vídeo, logo abaixo.
 
 [![Música Terra - Black Alien](https://yt-embed.herokuapp.com/embed?v=mbOB7aG7b1M)](https://www.youtube.com/watch?v=mbOB7aG7b1M "Black Alien - Terra")
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 E aí, achou o que dela? Assim como eu você gosta de rap? Essa música se chama "Terra". Ela é uma verdadeira "carta falada" sobre atitude diante da vida, incluindo o presente e o passado. Já pensou sobre isso? A História não é uma verdade guardada dentro de um monte de livro velho e empoeirado, a História é feita por **nós**, eu, você e todos que embarcam nessa aventura de fazer questões sobre o mundo que vivemos. Quando observamos um lugar, um objeto ou mesmo um acontecimento e tentamos responder questões como: O que é aquilo? Quando aconteceu? Onde? Como? E especialmente: **por quê?**, estamos fazendo as perguntas da História. Se reunirmos pistas, fontes históricas, para tentar compreender as transformações que algo sofreu ao longo do tempo, estamos seguindo os passos do conhecimento histórico. Nesse sentido, como disse Black Alien, estamos construindo a História, lançando a partir da realidade que vivemos, questões para construir uma interpretação coerente do passado. É isso que vamos fazer ao longo do ano letivo: ler, assistir, escutar, analisar, pensar perguntas e hipóteses, investigar e aprender.
 
