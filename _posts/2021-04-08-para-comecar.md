@@ -4,7 +4,7 @@ title: "A História e Black Alien: o primeiro passo da nossa jornada"
 description: Postagem inicial do ano letivo de 2021.
 tags: 7ano 8ano 9ano
 author: "João Gilberto Neves Saraiva"
-image: https://user-images.githubusercontent.com/64807181/113641048-30328000-9653-11eb-8426-c9c8abc8a43e.png
+image: /images/black-alien.jpg
 ---
 
 Ei, você já se preparou para começar nossa jornada pela História? Já viu que visual legal tem nosso site novo?
@@ -21,6 +21,7 @@ E aí, achou o que dela? Assim como eu você gosta de rap? Essa música se chama
 
 
 ![image](https://user-images.githubusercontent.com/64807181/113641048-30328000-9653-11eb-8426-c9c8abc8a43e.png)
+> Fonte: [https://soundcloud.com/blackalienofficial/terra](https://soundcloud.com/blackalienofficial/terra)
 
 
 Você percebeu que essa música vai além do verso que está na página inicial do site, várias partes falam de História e nossa relação com passado. Escute novamente e preste atenção na letra. Abaixo um pedacinho dela, [(clique aqui para abrir completa)](https://www.letras.com/black-alien/terra/).
