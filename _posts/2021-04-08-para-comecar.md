@@ -4,7 +4,7 @@ title: "A História e Black Alien: o primeiro passo da nossa jornada"
 description: Postagem inicial do ano letivo de 2021.
 tags: 7ano 8ano 9ano
 author: "João Gilberto Neves Saraiva"
-image: /images/black-alien.jpg
+image: https://github.com/0jonjo/escola/raw/master/images/black-alien.jpg
 ---
 
 Ei, você já se preparou para começar nossa jornada pela História? Já viu que visual legal tem nosso site novo?
