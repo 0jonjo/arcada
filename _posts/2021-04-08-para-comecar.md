@@ -4,7 +4,7 @@ title: "História? Black Alien? O que é isso?"
 description: O primeiro passo da nossa jornada 
 tags: 7ano 8ano 9ano
 author: "João Gilberto Neves Saraiva"
-image: https://i1.sndcdn.com/artworks-000100280305-e3lkbw-t500x500.jpg
+image: https://user-images.githubusercontent.com/64807181/113641048-30328000-9653-11eb-8426-c9c8abc8a43e.png
 ---
 
 Ei, você já se preparou para começar nossa jornada pela História? Já viu que visual legal tem nosso site novo?
@@ -17,7 +17,10 @@ Agora, vamos escutar a música.
 
 [![Música Terra - Black Alien](https://img.youtube.com/vi/mbOB7aG7b1M/0.jpg)](https://www.youtube.com/watch?v=mbOB7aG7b1M)
 
-E ai, achou o que dela? Assim como eu você gosta de rap? Essa música se chama "Terra". Ela é uma verdadeira "carta falada" sobre atitute diante da vida, incluindo o presente e o passado. Já pensou sobre isso? A História não é uma verdade guardada dentro de um monte de livro velho e empoeirado, a História é feita por **nós**, eu, você e todos que embarcam nessa aventura de fazer questões sobre o mundo que vivemos. Quando observamos um lugar, um objeto ou mesmo um acontecimento e tentamos responder questões como: O que é aquilo? Quando aconteceu? Onde? Como? E especialmente: **por quê?**, estamos fazendo as perguntas da História. Se reunirmos pistas, fontes históricas, para tentar compreender as transormações que algo sofreu ao longo do tempo, estamos seguindo os passos do conhecimento histórico. Nesse sentido, como disse Black Alien, estamos construíndo a História, lançando a partir da realidade que vivemos, questões para construir uma interpretação coerente do passado.      
+E ai, achou o que dela? Assim como eu você gosta de rap? Essa música se chama "Terra". Ela é uma verdadeira "carta falada" sobre atitute diante da vida, incluindo o presente e o passado. Já pensou sobre isso? A História não é uma verdade guardada dentro de um monte de livro velho e empoeirado, a História é feita por **nós**, eu, você e todos que embarcam nessa aventura de fazer questões sobre o mundo que vivemos. Quando observamos um lugar, um objeto ou mesmo um acontecimento e tentamos responder questões como: O que é aquilo? Quando aconteceu? Onde? Como? E especialmente: **por quê?**, estamos fazendo as perguntas da História. Se reunirmos pistas, fontes históricas, para tentar compreender as transormações que algo sofreu ao longo do tempo, estamos seguindo os passos do conhecimento histórico. Nesse sentido, como disse Black Alien, estamos construíndo a História, lançando a partir da realidade que vivemos, questões para construir uma interpretação coerente do passado.
+
+![image](https://user-images.githubusercontent.com/64807181/113641048-30328000-9653-11eb-8426-c9c8abc8a43e.png)
+
 
 Você percebeu que essa música vai além do verso que está na página inicial do site, várias partes falam de História e nossa relação com passado. Escute novamente e preste atenção na letra. Abaixo um pedacinho dela, [(clique aqui para abrir completa)](https://www.letras.com/black-alien/terra/).
 
