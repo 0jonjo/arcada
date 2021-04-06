@@ -6,7 +6,7 @@ ref: send
 order: 4
 ---
 
-**[Clique aqui para enviar atividades no caderno, trabalhos, fotografias, etc.](https://forms.gle/6acqjK1Dky1bPGGp7)**
+- **[Clique aqui para enviar atividades no caderno, trabalhos, fotografias, etc.](https://forms.gle/6acqjK1Dky1bPGGp7)**
 
 Você também pode enviar pelo e-mail: **[jgilbertons@gmail.com](mailto:jgilbertons@gmail.com)**
 
