@@ -6,7 +6,7 @@ ref: send
 order: 4
 ---
 
-- [Clique para enviar dúvidas e comentários ao professor](https://forms.gle/Ze8QvxcjrtRNrhq19)
+- [Clique para enviar dúvidas e comentários ao professor](https://forms.gle/gsyUXXFPXyeiJEeq6)
 
 - [Clique aqui para enviar atividades no caderno, trabalhos, fotografias, etc.](https://forms.gle/6acqjK1Dky1bPGGp7)
 
