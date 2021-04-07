@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Envio de Atividades e Dúvidas
-tagline: Links para dúvidas e envio de atividades, fotografias, trabalhos, etc. para o professor.
+tagline: Links para dúvidas e envio de atividades, fotografias, trabalhos, etc.
 ref: send
 order: 4
 ---
