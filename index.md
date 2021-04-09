@@ -12,6 +12,6 @@ Este é um projeto coordenado pelo professor de História [João Gilberto N. Sar
 
 ### Escolha a série desejada: 
 
-- **[7º ano](https://0jonjo.github.io/escola/tag/7ano)**
-- **[8º ano](https://0jonjo.github.io/escola/tag/8ano)**
-- **[9º ano](https://0jonjo.github.io/escola/tag/9ano)**
+- **[7º ano](https://0jonjo.github.io/arcada/tag/7ano)**
+- **[8º ano](https://0jonjo.github.io/arcada/tag/8ano)**
+- **[9º ano](https://0jonjo.github.io/arcada/tag/9ano)**
