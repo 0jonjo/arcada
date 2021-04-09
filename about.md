@@ -1,21 +1,17 @@
 ---
 layout: page
 title: Sobre
-tagline: Um pouco sobre o projeto
+tagline: Um pouco sobre o projeto Arcada
 permalink: /about.html
 ref: about
 order: 0
 ---
 
-**Projeto Arcada**
+Esse é um conjunto de website e blogs criado pelo professor [João Gilberto Neves Saraiva](https://0jonjo.github.io/0jonjo/). Ele faz parte do Arcada, um projeto de produção, atualização e uso de websites e blogs no ensino e aprendizagem de História na Educação Básica. Em uma frente ele lida com os aspectos técnicos e pedagógicos de produção e criação de websites. Em outra, examina a experiência do seu uso no ensino híbrido (e no ensino remoto) na disciplina de História - avaliando práticas, transformações e resultados de docente e discentes. Ele é desenvolvido na [Escola Municipal Professora Ivanira de Vasconcelos Paisinho](https://parnamirim.rn.gov.br/newsItem.jsp?p=7449), em Parnamirim/RN.
 
-Este é um conjunto de website e blogs criado pelo professor [João Gilberto Neves Saraiva](https://0jonjo.github.io/0jonjo/) para ser utilizado como um instrumento didático na [Escola Municipal Professora Ivanira de Vasconcelos Paisinho](https://parnamirim.rn.gov.br/newsItem.jsp?p=7449) de Parnamirim-RN. 
+O projeto atende, a cada ano letivo, a centenas de estudantes do Ensino Fundamental Anos Finais - entre o 6º e o 9º ano. São disponibilizados textos, atividades, imagens, músicas, vídeos, etc. produzidos pelo professor e estudantes, bem como materiais coletados de outras fontes (esses sempre com a autoria referenciada).
 
-O projeto atende, a cada ano letivo, a centenas de estudantes do Ensino Fundamental Anos Finais - entre o 6º e o 9º ano - matriculados na instituição. São disponibilizados textos, atividades, imagens, vídeos, etc. produzidos pelo professor e estudantes, bem como materiais coletados de outras fontes (esses sempre com a autoria referenciada).
-
-Esta é a segunda versão do projeto, a primeira foi ao ar em 2020 na plataforma Wordpress. 
-
-[Clique aqui para acessar os blogs antigos](joaogilberto0.wordpress.com/escola/).
+Esta é a segunda versão do projeto, a primeira foi ao ar em 2020 na plataforma Wordpress. [Clique aqui para acessar os blogs antigos](joaogilberto0.wordpress.com/escola/).
 
 ### O que significa Arcada?
 

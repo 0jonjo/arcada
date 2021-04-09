@@ -24,7 +24,3 @@ Todos nós vamos responder um questionário diagnóstico online (algo rápido e 
 
 No nosso próximo encontro (seja no grupo do Whatsapp ou em outro espaço) vamos tratar tanto da música da aula passada quanto das suas respostas nesse questionário diagnóstico
 
-
-
-
-
