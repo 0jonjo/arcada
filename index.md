@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Este é um site utilizado nas aulas do professor de História [João Gilberto N. Saraiva](https://0jonjo.github.io/0jonjo/) na Escola Municipal Professora Ivanira de Vasconcelos Paisinho (Parnamirim-RN).
+Este é um projeto coordenado pelo professor de História [João Gilberto N. Saraiva](https://0jonjo.github.io/0jonjo/) na Escola Municipal Professora Ivanira de Vasconcelos Paisinho (Parnamirim-RN).
 
 ### Escolha a série desejada: 
 
