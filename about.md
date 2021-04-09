@@ -7,7 +7,7 @@ ref: about
 order: 0
 ---
 
-Projeto Arcada
+**Projeto Arcada**
 
 Este é um conjunto de website e blogs criado pelo professor [João Gilberto Neves Saraiva](https://0jonjo.github.io/0jonjo/) para ser utilizado como um instrumento didático na [Escola Municipal Professora Ivanira de Vasconcelos Paisinho](https://parnamirim.rn.gov.br/newsItem.jsp?p=7449) de Parnamirim-RN. 
 
