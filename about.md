@@ -15,6 +15,8 @@ O projeto atende, a cada ano letivo, centenas de estudantes do Ensino Fundamenta
 
 Esta é a segunda versão do projeto, a primeira foi ao ar em 2020 na plataforma Wordpress. 
 
+[Clique aqui para acessar os blogs antigos](joaogilberto0.wordpress.com/escola/).
+
 ### O que significa Arcada?
 
 [Arcada](https://dicionario.priberam.org/arcada) é uma série de arcos que sustenta um edifício, pode ser o céu da boca. É também uma reunião de significados:
@@ -23,7 +25,5 @@ Esta é a segunda versão do projeto, a primeira foi ao ar em 2020 na plataforma
 2. [Arco](https://dicionario.priberam.org/arco) (o que lança as flechas com precisão em direção a um alvo distante) 
 3. [Ada](https://pt.wikipedia.org/wiki/Ada_Lovelace) (Ada Lovelace, matemática britânica do século XIX considerada a primeira programadora de computadores da História)
 
-
-[Clique aqui para acessar os blogs antigos]().
-
 [Retornar a Página Inicial]({{ '/' | absolute_url }})
+
