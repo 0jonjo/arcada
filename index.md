@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+vimeoId: 534920635
 ---
 
 Este é um projeto coordenado pelo professor de História [João Gilberto N. Saraiva](https://0jonjo.github.io/0jonjo/) na Escola Municipal Professora Ivanira de Vasconcelos Paisinho (Parnamirim-RN).
@@ -15,3 +16,6 @@ Este é um projeto coordenado pelo professor de História [João Gilberto N. Sar
 - **[7º ano](https://0jonjo.github.io/arcada/tag/7ano)**
 - **[8º ano](https://0jonjo.github.io/arcada/tag/8ano)**
 - **[9º ano](https://0jonjo.github.io/arcada/tag/9ano)**
+
+{% include vimeoPlayer.html id=page.vimeoId %}
+
