@@ -11,7 +11,7 @@ Esse é um conjunto de website e blogs criado pelo professor [João Gilberto Nev
 
 São disponibilizados textos, atividades, imagens, músicas, vídeos, etc. produzidos pelo professor e estudantes, bem como materiais coletados de outras fontes (esses sempre com a autoria referenciada).
 
-Esta é a segunda versão do projeto, a primeira foi ao ar em 2020 na plataforma Wordpress. [Clique aqui para acessar os blogs antigos](joaogilberto0.wordpress.com/escola/).
+Esta é a segunda versão do projeto, a primeira foi ao ar em 2020 na plataforma Wordpress. [Clique aqui para acessar os blogs antigos](https://joaogilberto0.wordpress.com/escola/).
 
 ### O que significa Arcada?
 
