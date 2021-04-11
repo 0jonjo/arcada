@@ -5,12 +5,9 @@ description: Postagem inicial do ano letivo de 2021.
 tags: 7ano 8ano 9ano
 image: https://raw.githubusercontent.com/0jonjo/escola/master/images/black-alien.jpg
 youtubeId: mbOB7aG7b1M 
-vimeoId: 534920635
 ---
 
 Ei, você já se preparou para começar nossa jornada pela História? Já viu que visual legal tem nosso site novo?
-
-{% include vimeoPlayer.html id=page.vimeoId %}
 
 Se ainda não viu, clica aí no canto superior direito da tela e dá uma olhada no que aparece. Tem o lugar de envio de atividades, os contatos e redes sociais do professor e também algumas informações interessantes sobre o próprio site. Vale uma visita rápida em cada uma das opções
 
