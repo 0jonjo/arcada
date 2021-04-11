@@ -2,7 +2,7 @@
 layout: page
 title: Sobre
 tagline: Um pouco sobre o projeto Arcada
-permalink: about.html
+permalink: /about.html
 ref: about
 order: 0
 ---
