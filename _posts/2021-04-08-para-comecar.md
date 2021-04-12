@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Para começar: um pouco de História com Black Alien - 7 8 9 ano"
+title: "Para começar: um pouco de História com Black Alien"
 description: Postagem inicial do ano letivo de 2021.
 tags: 7ano 8ano 9ano
 image: https://raw.githubusercontent.com/0jonjo/escola/master/images/black-alien.jpg
