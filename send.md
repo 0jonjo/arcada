@@ -10,6 +10,6 @@ order: 4
 
 - [Clique aqui para enviar atividades no caderno, trabalhos, fotografias, etc.](https://forms.gle/6acqjK1Dky1bPGGp7)
 
-Você também pode enviar atividades e dúvidas pelo e-mail: **[jgilbertons@gmail.com](mailto:jgilbertons@gmail.com)**
+Você também pode enviar atividades e dúvidas pelo e-mail: **[joao.saraiva.072@ufrn.edu.br](mailto:joao.saraiva.072@ufrn.edu.br)**
 
 [Retornar a Página Inicial]({{ '/' | absolute_url }})
