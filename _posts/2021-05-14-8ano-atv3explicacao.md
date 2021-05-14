@@ -5,7 +5,7 @@ description: Vídeo com dicas e explicação da atividade
 tags: 8ano
 youtubeId: 
 image: 
-vimeoId: 545129770
+vimeoId: 549299377
 ---
 
 Olá pessoal, este é um vídeo dando dicas e explicações como fazer a atividade sobre Iluminismo da 3ª quinzena. Nela você irá responder questões do livro didático no caderno. Lembrando que você não precisa copiar as perguntas, e sim produzir respostas completas utilizando suas próprias palavras.
