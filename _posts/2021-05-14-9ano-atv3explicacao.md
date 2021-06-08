@@ -8,7 +8,7 @@ image:
 vimeoId: 549306253
 ---
 
-Olá pessoal, este é um vídeo dando dicas e explicações como fazer a atividade sobre Iluminismo da 3ª quinzena. Nela você irá responder questões do livro didático no caderno. Lembrando que você não precisa copiar as perguntas, e sim produzir respostas completas utilizando suas próprias palavras.
+Olá pessoal, este é um vídeo dando dicas e explicações como fazer a atividade da 3ª quinzena. Nela você irá responder questões do livro didático no caderno. Lembrando que você não precisa copiar as perguntas, e sim produzir respostas completas utilizando suas próprias palavras.
 
 {% include vimeoPlayer.html id=page.vimeoId %}
 
