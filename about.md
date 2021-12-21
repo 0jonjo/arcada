@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre
+title: Sobre & Anos Anteriores
 tagline: Um pouco sobre o projeto Arcada
 permalink: /about.html
 ref: about
@@ -9,9 +9,14 @@ order: 0
 
 Esse é um conjunto de website e blogs criado pelo professor [João Gilberto Neves Saraiva](https://0jonjo.github.io/). Ele faz parte do Arcada, um projeto de produção, atualização e uso de websites e blogs no ensino e na aprendizagem de História na Educação Básica. É um projeto que atua sobre duas frentes, de um lado aspectos técnicos e pedagógicos de produção e criação de websites e do outro lado, examina a experiência do seu uso no ensino híbrido (e no ensino remoto) na disciplina de História - avaliando práticas, transformações e resultados de docente e discentes. Ele é desenvolvido na [Escola Municipal Professora Ivanira de Vasconcelos Paisinho](https://parnamirim.rn.gov.br/newsItem.jsp?p=7449), em Parnamirim/RN e abrange cerca de 300 alunos do Ensino Fundamental Anos Finais a cada ano letivo.
 
-São disponibilizados textos, atividades, imagens, músicas, vídeos, etc. produzidos pelo professor e estudantes, bem como materiais coletados de outras fontes (esses sempre com a autoria referenciada).
+São disponibilizados textos, atividades, imagens, músicas, vídeos, etc. produzidos pelo professor e estudantes, bem como materiais coletados de outras fontes (esses sempre com a autoria referenciada). Esta é a segunda versão do projeto, a primeira foi ao ar em 2020 na plataforma Wordpress. 
 
-Esta é a segunda versão do projeto, a primeira foi ao ar em 2020 na plataforma Wordpress. [Clique aqui para acessar os blogs antigos](https://joaogilberto0.wordpress.com/escola/).
+Escolha uma das opções abaixo para acessar atividades de anos letivos anteriores
+
+- [2020](https://joaogilberto0.wordpress.com/escola/).
+- [2021 - 7º ano](https://0jonjo.github.io/arcada/tag/7ano)
+- [2021 - 8º ano](https://0jonjo.github.io/arcada/tag/8ano)
+- [2021 - 9º ano](https://0jonjo.github.io/arcada/tag/9ano)
 
 ### O que significa Arcada?
 

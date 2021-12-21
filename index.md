@@ -12,6 +12,6 @@ Este é um projeto coordenado por [João Gilberto N. Saraiva](https://0jonjo.git
 
 Escolha a opção desejada:
 
-- [7º ano](https://0jonjo.github.io/arcada/tag/7ano)
-- [8º ano](https://0jonjo.github.io/arcada/tag/8ano)
-- [9º ano](https://0jonjo.github.io/arcada/tag/9ano)
+- [7º ano](https://0jonjo.github.io/arcada/tag/7ano2022)
+- [8º ano](https://0jonjo.github.io/arcada/tag/8ano2022)
+- [9º ano](https://0jonjo.github.io/arcada/tag/9ano2022)
