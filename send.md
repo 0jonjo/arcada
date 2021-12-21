@@ -6,10 +6,6 @@ ref: send
 order: 4
 ---
 
-- [Clique para enviar dúvidas ou comentários ao professor](https://forms.gle/6Y6npzkob1jGLDhh7)
-
-- [Clique aqui para enviar atividades no caderno, trabalhos, fotografias, etc.](https://forms.gle/AgZkDZgp8nD1LhJ19)
-
-Você também pode enviar atividades e dúvidas pelo e-mail: **[joao.saraiva.072@ufrn.edu.br](mailto:joao.saraiva.072@ufrn.edu.br)**
+Envie atividades e dúvidas pelo e-mail: **[joao.saraiva.072@ufrn.edu.br](mailto:joao.saraiva.072@ufrn.edu.br)**
 
 [Retornar a Página Inicial]({{ '/' | absolute_url }})
