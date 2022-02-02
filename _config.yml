@@ -1,5 +1,5 @@
 title: Arcada
-description: A construção do seu passado é a atitude no presente (Black Alien)
+description:
 show_downloads: no
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -11,7 +11,7 @@ google_analytics: G-EB41YV9XGD
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
-  date_format: "%b %-d, %Y"
+  date_format: "%-d-%m-%Y"
 
 theme: # leave it empty
 

@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Este é um projeto coordenado por [João Gilberto N. Saraiva](https://0jonjo.github.io/), professor de História na Escola Municipal Professora Ivanira de Vasconcelos Paisinho (Parnamirim-RN).
+Este é um projeto coordenado por [João Gilberto N. Saraiva](https://0jonjo.github.io/), professor na Rede Municipal de Ensino de Parnamirim-RN.
 
 Escolha a opção desejada:
 
