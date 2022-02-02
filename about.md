@@ -9,9 +9,9 @@ order: 0
 
 Esse é um projeto criado pelo professor [João Gilberto Neves Saraiva](https://0jonjo.github.io/). Ele é desenvolvido na Rede Municipal de Ensino de Parnamirim/RN e abrange cerca de 300 alunos do Ensino Fundamental Anos Finais a cada ano letivo.
 
-São disponibilizados textos, atividades, imagens, músicas, vídeos, etc. produzidos pelo professor e estudantes, bem como materiais coletados de outras fontes (esses sempre com a autoria referenciada). Esta é a segunda versão do projeto, a primeira foi ao ar em 2020 na plataforma Wordpress. 
+São disponibilizados textos, atividades, imagens, músicas, vídeos, etc. produzidos pelo professor e estudantes, bem como materiais coletados de outras fontes (esses sempre com a autoria referenciada).
 
-Para acessar atividades de anos letivos anteriores:
+A primeira versão do site foi lançada em fevereiro de 2020 na plataforma Wordpress. Para acessar atividades de anos letivos anteriores:
 
 2021
 - [9º ano](https://0jonjo.github.io/arcada/tag/9ano)
