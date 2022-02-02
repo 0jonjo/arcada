@@ -8,8 +8,6 @@
 layout: home
 ---
 
-Este é um projeto coordenado por [João Gilberto N. Saraiva](https://0jonjo.github.io/), professor na Rede Municipal de Ensino de Parnamirim-RN.
-
 Escolha a opção desejada:
 
 - [7º ano](https://0jonjo.github.io/arcada/tag/7ano2022)
