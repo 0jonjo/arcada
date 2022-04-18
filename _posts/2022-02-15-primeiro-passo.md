@@ -2,7 +2,7 @@
 layout: post
 title: "Primeiro passo: a nova caminhada começa aqui"
 description: Postagem inicial do ano letivo de 2022.
-tags: 7ano2022 8ano2022 9ano2022
+tags: 7ano 8ano 9ano
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu5UZR5-Lgo-vRNwT_oVpqnlKFMSPscIGPVQ&usqp=CAU 
 youtubeId: 
 vimeoId1: 677344739
