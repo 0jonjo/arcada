@@ -11,17 +11,9 @@ Esse é um projeto criado pelo professor [João Gilberto Neves Saraiva](https://
 
 São disponibilizados textos, atividades, imagens, músicas, vídeos, etc. produzidos pelo professor e estudantes, bem como materiais coletados de outras fontes (esses sempre com a autoria referenciada).
 
-A primeira versão do site foi lançada em fevereiro de 2020 na plataforma Wordpress. Para acessar atividades de anos letivos anteriores:
+A primeira versão do site foi lançada em fevereiro de 2020 na plataforma Wordpress. Para acessar a versão anterior do projeto:
 
-2021
-- [9º ano](https://0jonjo.github.io/arcada/tag/9ano)
-- [8º ano](https://0jonjo.github.io/arcada/tag/8ano)
-- [7º ano](https://0jonjo.github.io/arcada/tag/7ano)
-
-2020
-- [9º ano](https://joaogilberto0.wordpress.com/9ano/)
-- [8º ano](https://joaogilberto0.wordpress.com/7ano/)
-- [7º ano](https://joaogilberto0.wordpress.com/7ano/)
+[Projeto Arcada no Wordpress](https://joaogilberto0.wordpress.com/escola/)
 
 ### O que significa Arcada?
 
